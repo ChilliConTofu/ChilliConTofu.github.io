@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ivan Melev
     - name: Date of Birth
-      value: 14th March 1879
+      value: 17th May 1993
     - name: Languages
-      value: English, German
+      value: Macedonian, Bulgarian, English
 
 - title: Education
   type: time_table
