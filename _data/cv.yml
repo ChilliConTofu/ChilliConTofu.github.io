@@ -6,7 +6,7 @@
     #- name: Date of Birth
     #  value: 17th May 1993
     - name: Languages
-      value: English, Bulgarian, Macedonian.
+      value: English, Bulgarian, Macedonian
 
 - title: Academic Interests
   type: nested_list
