@@ -20,4 +20,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Ivan. I am a first year doctoral candidate at LMU's Institute of Statistics. I am part of Göran Kauermann's [chair of applied statistics in social sciences, economics and business](https://www.en.wisostat.statistik.uni-muenchen.de/index.html). You can check out my research interests [here](/al-folio/cv/#academic-interests/).
+I am Ivan. I am a first year doctoral candidate at LMU's Institute of Statistics. I am part of Göran Kauermann's [chair of applied statistics in social sciences, economics and business](https://www.en.wisostat.statistik.uni-muenchen.de/index.html). You can check out my research interests [here](/cv/#academic-interests).
