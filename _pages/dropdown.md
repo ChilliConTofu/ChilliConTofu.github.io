@@ -12,5 +12,5 @@ children:
       permalink: /photography/
     - title: divider
     - title: academic blog
-      permalink: /blog/index.html/
+      permalink: /page/:num/
 ---
