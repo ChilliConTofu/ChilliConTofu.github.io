@@ -2,8 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-#description: Materials for courses you taught. Replace this text with your description.
+description: This page is under construction.
 nav: true
 nav_order: 5
 ---
-The page is under construction.
