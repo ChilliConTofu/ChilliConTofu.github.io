@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chillicontofu.github.io/sitemap.xml
+Sitemap: https://ivanmelev.github.io/sitemap.xml
