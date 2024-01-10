@@ -1,0 +1,137 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Ivan Melev
+    #- name: Date of Birth
+    #  value: 17th May 1993
+    - name: Languages
+      value: English, Bulgarian, Macedonian
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Uncertainty Quantification (UQ) in Machine Learning (ML).
+      items: 
+        - </u> <a href="https://proceedings.mlr.press/v48/gal16.pdf" target="_blank">MC Dropout</a>. Its interpretation and properties.
+        - </u> <a href="https://www.jmlr.org/papers/volume24/18-521/18-521.pdf" target="_blank">HiGrad</a>. How it can (if it can) be utilised for Bayesian UQ.
+        - Adaptations of Bootstrapping for ML Models.
+    - title: Aleatory and Epistemic Uncertainty.
+      items:
+        - Formalization of </u> <a href="https://link.springer.com/content/pdf/10.1007/s10994-021-05946-3.pdf" target="_blank">Epistemic and Aleatory Uncertainty</a>.
+        -  </u> <a href="https://link.springer.com/book/10.1007/978-1-4419-5941-6" target="_blank">Frequentist Interpretations of Bayesian UQ</a>.
+    - title: Robustness of ML models.
+      items:
+        - Sensitivity of ML Models to Changes in the Inputs.
+         
+- title: Working Experience
+  type: time_table
+  contents:
+    - title: Doctoral Candidate in Statistics
+      institution: Ludwig-Maximilians University, Munich
+      year: 2023 -
+      description:
+        - I am part of Göran Kauermann's chair at the Institute of Statistics at LMU - Munich. My work focuses on uncertainty quantification in machine learning.
+        #- Description 2.
+        #- title: Description 3.
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
+    - title: Data Analyst
+      institution: Allianz SE, Munich
+      year: 2022-2023
+      #description:
+      #  - Training and evaluating statistical models for 
+      #  - Description 2.
+
+    - title: Student Assistant
+      institution: Ludwig-Maximilians University, Munich
+      year: 2020-2023
+      description:
+         Responsible for literature reviews, data collection and data analysis for various projects related to research in cognitive psychology.
+         
+
+- title: Learning Experience
+  type: nested_list
+  contents:
+    - title: 2023
+      items: 
+        - Estimation Theory (TUM </u> <a href="https://campus.tum.de/tumonline/pl/ui/$ctx/wbModHBReport.wbGenHTMLForBeschr?pKnotenNr=1720332&pSemesterNr=192&pLangCode=EN" target="_blank">Course</a>)
+        - Decision Theory (LMU Course, audited)
+        - Generalized Linear Models (TUM </u> <a href="https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=478025" target="_blank">Course</a>)
+        - Real Analysis of a Single Variable (Self- </u> <a href="https://www.amazon.de/-/en/Terence-Tao/dp/9380250649" target="_blank">study</a>)
+        - Advanced Topics in Real Analysis (Self- </u> <a href="https://www.amazon.de/-/en/Terence-Tao/dp/9380250657" target="_blank">study</a>, still not finished)
+             
+    - title: 2022
+      items:
+        - Regression Analysis (TUM </u> <a href="https://campus.tum.de/tumonline/pl/ui/$ctx/wbModHBReport.wbGenHTMLForBeschr?pKnotenNr=702795&pSemesterNr=194&pLangCode=EN" target="_blank">Course</a>)
+        - Computational Statistics (TUM </u> <a href="https://campus.tum.de/tumonline/pl/ui/$ctx/wbModHBReport.wbGenHTMLForBeschr?pKnotenNr=2991466&pSemesterNr=195&pLangCode=EN" target="_blank">Course</a>)
+        - Statistics on Graphs (TUM </u> <a href="https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950626635?$ctx=design=ca=;lang=en&$scrollTo=toc_overview" target="_blank">Course</a>)
+        - High-Dimensional Statistics (Self- </u> <a href="https://www.amazon.de/-/en/Trevor-Hastie/dp/1498712169" target="_blank">study</a>)
+        - Information Theory (TUM </u> <a href="https://www.ce.cit.tum.de/en/lnt/teaching/lectures/information-theory/"_blank">Course</a>)
+
+    - title: 2021
+      items:
+        - Discrete Mathematics (Self- </u> <a href="https://www.amazon.de/-/en/Susanna-S-Epp/dp/0495391328" target="_blank">study</a>)
+        - Time Series Analysis (Self- </u> <a href="https://link.springer.com/book/10.1007/978-3-319-52452-8" target="_blank">study</a>)
+        - First Course in Probability Theory (Self- </u> <a href="https://www.amazon.de/-/en/Peter-Texas-University-Lubbock-Westfall/dp/1466512105" target="_blank">study</a>)
+
+    - title: 2020
+      items:
+        - Electric Circuit Theory (Self- </u> <a href="https://www.amazon.de/-/en/Charles-Alexander/dp/0078028221" target="_blank">study</a>)
+        - Calculus (Single and Multivariate) (Self-</u> <a href="https://www.amazon.de/-/en/George-B-Jr-Thomas/dp/0321878965" target="_blank">study</a>)
+        - First Course in Linear Algebra (Self-</u> <a href="https://www.amazon.de/-/en/Gilbert-Strang/dp/0980232716" target="_blank">study</a>)
+        - Psychometric Theory (LMU Course, used </u> <a href="https://www.amazon.com/Test-Theory-Treatment-Roderick-McDonald/dp/0805830758" target="_blank">this</a> book)
+        
+
+
+
+- title: Education
+  type: time_table
+  contents:
+    - title: MSc, Neuroengineering
+      institution: Technical University Munich
+      year: 2020-
+      description:
+      #  - A research oriented program in the intersection between experimental neuroscience and computational neuroscience. The electives I attend go in the direction of statistics and machine learning.
+      #  - "Final thesis: Measurement Error Statistical Models: A Neuroscientific Case Study (Prof. Augustin, Prof. Ploner)"
+        - title: A research oriented program in the intersection between experimental neuroscience and computational neuroscience. The electives I attend go in the direction of statistics and machine learning.
+          contents:
+            - "Final thesis: Measurement Error Statistical Models: A Neuroscientific Case Study (Prof. Augustin, Prof. Ploner), grade: 1.0"
+            
+    - title: "MSc, Psychology: Learning Sciences"
+      institution: Ludwig-Maximilians University, Munich
+      year: 2019-2022
+      description:
+        - A research oriented program with a focus on learning, cognition and the tools used for their statistical modeling.
+        #- Description 2.
+    - title: "BA, Psychology"
+      institution: Ss. Cyril and Methodius, Skopje
+      year: 2014-2018
+      description:
+        - Focus on psychometrics and statistical modeling in general.
+        #- Description 2.        
+      
+
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 1921
+#      items: 
+#        - Nobel Prize in Physics 
+#        - Matteucci Medal
+#    - year: 2029
+#      items: 
+#        - Max Planck Medal
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> <a href="https://en.wikipedia.org/wiki/Tavli" target="_blank">Tavli</a>, </u> <a href="https://www.reddit.com/r/sudoku/comments/5kw1nt/how_to_get_faster/?rdt=40380" target="_blank">Speed Solving Sudoku</a>, <a href="/../photography.md">Photography</a>, <a href="https://chillicontofu.github.io/music/" target="_blank">Music</a>, <a href="https://www.amazon.de/Blood-Ties-Ipek-Yosmaoglu/dp/080147924X" target="_blank">Late Ottoman Empire History</a>, <a href="https://www.amazon.de/Way-Zen-Alan-W-Watts/dp/0375705104" target="_blank">Zen Meditation</a>.
